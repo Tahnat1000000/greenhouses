@@ -1,0 +1,9 @@
+### NAME, GROW TIME, MINIMUM TEMPERATURE, MAXIMUM TEMPERATURE ###
+Lemon,5,12,17
+Red Apple,75,30,40
+Red Pepper,33,40,47
+Green Apple,22,30,40
+Banana,91,15,22
+Tomato,55,7,12
+Cucumber,80,22,30
+Strawberries,30,44,48
